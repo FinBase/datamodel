@@ -1,0 +1,3 @@
+SET FOREIGN_KEY_CHECKS=0;
+TRUNCATE at_mjst_finbase.tra_transaction;
+SET FOREIGN_KEY_CHECKS=1;
